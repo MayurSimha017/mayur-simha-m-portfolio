@@ -1,46 +1,87 @@
 # Mayur Simha M — Portfolio
 
-A high-performance single-page developer portfolio showcasing Python full-stack applications, cloud engineering labs, and technical leadership.
+<p align="center">
+  <a href="https://mayur-simha-m-portfolio.vercel.app/">
+    <strong>🌐 Visit My Live Portfolio</strong>
+  </a>
+</p>
 
-**Live site:** [https://YOUR-SITE-URL/](https://YOUR-SITE-URL/)
+Welcome to my personal portfolio! I'm an AIML Engineering graduate interested in Python development, cloud computing, networking and IT infrastructure.
 
-## Tech Stack
+This portfolio showcases my technical skills, projects, learning journey and professional interests.
 
-- **Frontend & Core:** React 19, Vite
-- **Styling:** Tailwind CSS 4
-- **Animations & Effects:** Framer Motion, AOS, WebGL fluid SplashCursor
-- **Communications:** EmailJS (@emailjs/browser)
+## 👨‍💻 About Me
 
-## Run Locally
+- Interested in Python development and backend technologies.
+- Exploring AWS, Cloud Computing and Cloud Operations.
+- Building hands-on projects in software development and networking.
+- Continuously learning and improving through practical implementation.
 
-Clone the repository and install dependencies:
+## 🛠️ Technical Skills
 
-```bash
-npm install
-```
+**Programming:** Python, JavaScript, SQL
 
-Start the local development server:
+**Web Development:** HTML, CSS, React.js, Django, Django REST Framework
 
-```bash
-npm run dev
-```
+**Databases:** MySQL, SQLite, Oracle SQL
 
-Build for production:
+**Cloud & Infrastructure:** AWS, Linux, Cloud Computing
 
-```bash
-npm run build
-```
+**Networking:** TCP/IP, DNS, DHCP, VLANs, Routing, Switching
 
-## Environment Variables
+**Tools:** Git, GitHub, VS Code, Postman, Cisco Packet Tracer
 
-Create a `.env.local` file in the project root to configure EmailJS form delivery:
+## 🚀 Featured Projects
 
-- `VITE_EMAILJS_SERVICE_ID`
-- `VITE_EMAILJS_TEMPLATE_ID`
-- `VITE_EMAILJS_PUBLIC_KEY`
+### Smart Warehouse Management System
+A web-based warehouse management application featuring inventory tracking, stock monitoring and dashboard functionality.
 
-*(Note: If these variables are not provided, the contact form automatically falls back to an interactive direct email mailto client).*
+**Technologies:** Python, Django, Django REST Framework, React.js, Oracle SQL
 
-## Training Attribution
+[View Project](https://github.com/MayurSimha017/Smart-Warehouse-System)
 
-Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
+### AI Interview Coach
+An AI-powered interview preparation application that generates job-specific questions and provides feedback.
+
+**Technologies:** Python, Django, React.js, Gemini API, Web Speech API
+
+[View Project](https://github.com/MayurSimha017/AI-Interview-Coach)
+
+### Office Network Troubleshooting Lab
+A Cisco Packet Tracer project demonstrating network configuration, troubleshooting and enterprise networking concepts.
+
+**Technologies:** Cisco Packet Tracer, VLANs, Routing, Switching, DHCP, DNS
+
+[View Project](https://github.com/MayurSimha017/office-network-troubleshooting-lab)
+
+### AI Summarizer
+An application for summarizing text, online articles and image-based content.
+
+**Technologies:** Python, Hugging Face Transformers, Newspaper3k, PyTesseract
+
+[View Project](https://github.com/MayurSimha017/Ai-summarizer)
+
+## 🎓 Education
+
+**Bachelor of Engineering — Artificial Intelligence and Machine Learning**
+
+Jyothy Institute of Technology | 2022–2026
+
+CGPA: 8.6
+
+## 📜 Certifications
+
+- AWS Cloud Foundations
+
+## 📫 Connect With Me
+
+- **Portfolio:** https://mayur-simha-m-portfolio.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/mayursimha
+- **GitHub:** https://github.com/MayurSimha017
+- **Email:** mayursimha17@gmail.com
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
