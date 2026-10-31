@@ -75,7 +75,7 @@ export default function About() {
                   {/* Profile Portrait */}
                   <img
                     src={stackImage}
-                    alt={personalInfo.name}
+                    alt="Mayur Simha M — Python Full Stack Developer & Cloud Engineer, TAP Academy student"
                     className="w-full flex-1 rounded-xl object-cover object-top shadow-inner min-h-0"
                   />
                 </div>
